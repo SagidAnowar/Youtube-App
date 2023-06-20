@@ -18,7 +18,7 @@ The app is easy to use and has a simple interface that makes it easy for anyone 
 
  ## Installation Instructions
 
- 1. Clone the repository `git clone https://github.com/username/youtube_clone`  
+ 1. Clone the repository `git clone [https://github.com/username/youtube_clone](https://github.com/SagidAnowar/Youtube-App.git)`  
 
  2. Install dependencies `npm install`  
 
