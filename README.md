@@ -28,4 +28,4 @@ The app is easy to use and has a simple interface that makes it easy for anyone 
 
 ![youtubeapp-pic](https://github.com/SagidAnowar/Youtube-App/assets/121697604/b7dc596b-d0bb-4e5a-aa0b-78d42fadfbbc)
 
-We hope that you enjoy using my YouTube Clone App! If you have any questions or feedback about the app, please feel free to contact us at any time. Thank you for using my app!
+I hope that you enjoy using my YouTube Clone App! If you have any questions or feedback about the app, please feel free to contact us at any time. Thank you for using my app!
