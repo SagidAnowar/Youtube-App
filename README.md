@@ -20,13 +20,15 @@ The app is easy to use and has a simple interface that makes it easy for anyone 
 
  ## Installation Instructions
 
- 1. Clone the repository `git clone [https://github.com/username/youtube_clone](https://github.com/SagidAnowar/Youtube-App.git)`  
+ 1. Clone the repository `git clone https://github.com/SagidAnowar/Youtube-App.git`  
 
  2. Install dependencies `npm install`  
 
  3. Start the server `npm start`  
 
  4. Visit http://localhost:3000 in your browser to view the application
+
+OR VISIT: https://scintillating-cheesecake-f2c93e.netlify.app
 
 
 I hope that you enjoy using my YouTube Clone App! If you have any questions or feedback about the app, please feel free to contact us at any time. Thank you for using my app!
