@@ -1,4 +1,4 @@
-#Youtube Clone app
+## Youtube Clone App
 
 YouTube Clone is a web application that allows users to upload, share, and watch videos. With this app, you can easily access all of your favorite videos from anywhere in the world.  It is designed to be a clone of the popular video sharing platform YouTube. 
 
