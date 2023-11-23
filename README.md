@@ -4,6 +4,8 @@ YouTube Clone is a web application that allows users to upload, share, and watch
 
 The app is easy to use and has a simple interface that makes it easy for anyone to navigate. You can search for videos by keyword or browse through categories such as music, sports, movies, and more. You can also create playlists of your favorite videos and share them with others. 
 
+![youtubeapp-pic](https://github.com/SagidAnowar/Youtube-App/assets/121697604/b7dc596b-d0bb-4e5a-aa0b-78d42fadfbbc)
+
 ## Features  
 - Share videos with friends 
 - Watch videos in HD quality 
@@ -26,6 +28,5 @@ The app is easy to use and has a simple interface that makes it easy for anyone 
 
  4. Visit http://localhost:3000 in your browser to view the application
 
-![youtubeapp-pic](https://github.com/SagidAnowar/Youtube-App/assets/121697604/b7dc596b-d0bb-4e5a-aa0b-78d42fadfbbc)
 
 I hope that you enjoy using my YouTube Clone App! If you have any questions or feedback about the app, please feel free to contact us at any time. Thank you for using my app!
