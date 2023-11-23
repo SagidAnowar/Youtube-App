@@ -15,7 +15,7 @@ The app is easy to use and has a simple interface that makes it easy for anyone 
 
  ## Technology Stack 
 
- - Frontend: HTML, CSS, JavaScript, React.js , Material UI 
+ - Frontend: HTML, CSS, JavaScript, React, Material UI 
   
 
  ## Installation Instructions
